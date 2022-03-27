@@ -1,0 +1,15 @@
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\JoyofHex.exe
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\JoyofHex.deps.json
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\JoyofHex.runtimeconfig.json
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\JoyofHex.dll
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\ref\JoyofHex.dll
+C:\Users\cfmde\source\repos\code\JoyofHex\bin\Debug\net6.0\JoyofHex.pdb
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.csproj.AssemblyReference.cache
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.AssemblyInfoInputs.cache
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.AssemblyInfo.cs
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.csproj.CoreCompileInputs.cache
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.dll
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\ref\JoyofHex.dll
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.pdb
+C:\Users\cfmde\source\repos\code\JoyofHex\obj\Debug\net6.0\JoyofHex.genruntimeconfig.cache
